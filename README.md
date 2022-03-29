@@ -1,1 +1,1 @@
-My first readme
+this is the readme for the root repository
